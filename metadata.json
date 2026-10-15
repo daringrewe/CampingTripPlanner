@@ -1,0 +1,10 @@
+{
+  "name": "Minnesota CampRoute - MN Road Trip & Campsite Optimizer",
+  "description": "Plan optimized Minnesota road trips, search tailored state park campgrounds along your route, and customize paths with interactive maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
